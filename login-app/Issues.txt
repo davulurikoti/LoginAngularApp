@@ -1,0 +1,1 @@
+1)Boot strap not applying : Check bootstrap availability in package JSON. Then import bottstrap css in style.css
